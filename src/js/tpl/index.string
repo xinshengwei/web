@@ -1,0 +1,57 @@
+<section class="audio">
+            <img id="imgs" src="img/audio1.png" alt="" />
+            <div><img src="img/1.gif"/ class="img1"></div>
+            <audio src="mp3/mp3.mp3" autoplay="autoplay" loop="loop"></audio>
+        </section>
+        
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide one">
+                    <div class="one_1"><img src="img/1.png" class="ani" swiper-animate-effect="bounceIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.5s"/></div>
+                    <div class="one_2"><img src="img/2.png"/></div>
+                    <div class="one_3"><img src="img/3.png" class="ani" swiper-animate-effect="bounceIn" swiper-animate-duration="1s" swiper-animate-delay="1s"/></div>
+                    <div class="one_4"><img src="img/4.png" class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="1.5s" swiper-animate-delay="1.5s"/></div>
+                    <div class="ani one_5" swiper-animate-effect="tada" swiper-animate-duration="1.5s" swiper-animate-delay="1.5s"><img src="img/5.png" class="ani" swiper-animate-effect="bounceIn tada" swiper-animate-duration="2s" swiper-animate-delay="2s"/></div>
+                    <div class="one_6"><img src="img/6.png" class="ani" swiper-animate-effect="zoomInDown" swiper-animate-duration="2.5s" swiper-animate-delay="2.5s"/></div>
+                </div>
+                <div class="swiper-slide two">
+                    <div class="ani two_big two_1" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay="0.5s">我</div>
+                    <div class="ani two_small two_2" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1s" swiper-animate-delay="1s">第一次睁开眼睛，看见的是您</div>
+                    <div class="ani two_small two_3" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="0.5s">第一次哭泣，为我擦干泪的是您</div>
+                    <div class="ani two_small two_4" swiper-animate-effect="fadeInLeft" swiper-animate-duration="2s" swiper-animate-delay="0.5s">第一次喊妈妈，最开心的是您</div>
+                    <div class="ani two_small two_5" swiper-animate-effect="fadeInRight" swiper-animate-duration="2.5s" swiper-animate-delay="0.5s">第一次离开家，最舍不得的是您</div>
+                    <div class="ani two_small two_6" swiper-animate-effect="fadeInLeft" swiper-animate-duration="3s" swiper-animate-delay="0.5s">每一次生病,最心疼我的人是</div>
+                    <div class="ani two_big two_7" swiper-animate-effect="fadeInDown" swiper-animate-duration="3.5s" swiper-animate-delay="0.5s">您</div>
+                    <p><img src="img/7.png"/></p>
+                </div>
+                <div class="swiper-slide three">
+                    <div class="ani three_1" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s">我</div>
+                    <div class="ani three_2" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="1s">每一次离开家</div>
+                    <div class="ani three_3" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="1.5s">泪流两行的是您</div>
+                    <div class="ani three_4" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="2s">我每一次学会新东西</div>
+                    <div class="ani three_5" swiper-animate-effect="fadeInUp" swiper-animate-duration="1s" swiper-animate-delay="2.5s">夸奖我的是</div>
+                    <div class="ani three_6" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="3.5s">您</div>
+                    <div class="three_7"><img src="img/8.png" class="ani" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="0.3s"/></div>
+                    <div class="three_8"><img src="img/9.png" class="ani" swiper-animate-effect="rotateIn" swiper-animate-duration="1s" swiper-animate-delay="4s"/></div>
+                </div>
+                <div class="swiper-slide four">
+                    <div class="four_1"><img src="img/10.png" class="ani" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s"/></div>
+                    <span class="ani span1" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="1.5s">我</span><div class="ani four_2" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1.5s">总以为自己长大了</div>
+                    <div class="ani four_3" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="2s">可一回到您的身边</div>
+                    <div class="ani four_4" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="2.5s">就情不自禁的像个</div><span class="ani span2" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="3.5s">孩子</span>
+                    <div class="four_5"><img src="img/12.png" class="ani" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="1s"/></div>
+                    <div class="four_6"><img src="img/11.png" class="ani" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="1s"/></div>
+                </div>
+                <div class="swiper-slide five">
+                    <img src="img/13.png" class="ani five_1" swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="0.5s"/>
+                    <img src="img/mather.jpg" class="ani five_2" swiper-animate-effect="pulse" swiper-animate-duration="3s" swiper-animate-delay="1s"/>
+                    <div class="five_4">
+                        <p class="ani" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="2s">看到您开心健康</p>
+                        <p class="ani" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="2.5s">就是我最大的幸福</p>
+                        <p class="ani big" swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="3.5s">妈妈，母亲节快乐</p>
+                    </div>
+                </div>
+            </div>
+            <!-- 如果需要分页器 -->
+            <div class="swiper-pagination"></div>
+        </div>

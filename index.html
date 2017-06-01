@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />	
+		<title></title>
+		<script type="text/javascript">
+			(function() {
+				function a() {
+					var a = document.getElementsByTagName("html")[0],
+						b = document.documentElement.clientWidth;
+					640 <= b && (b = 640);
+					a.style.fontSize = b / 20 / 18.75 * 625 + "%"
+				}
+				a();
+				var b;
+				window.addEventListener("resize",
+					function() {
+						clearTimeout(b);
+						b = setTimeout(a, 300)
+					}, !1);
+				window.addEventListener("pageshow", function(c) {
+					c.persisted && (clearTimeout(b), b = setTimeout(a, 300))
+				}, !1);
+			})();
+		</script>
+		<link rel="stylesheet" type="text/css" href="prd/css/new_file.css"/>
+	</head>
+
+	<body>
+				
+		<script type="text/javascript" src="prd/js/aaa.js"></script>
+		
+
+	</body>
+
+</html>
